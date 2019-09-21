@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Virtual Tourist|Norah/Photos/PhotosCollectionViewController.swift"
+            timestampString = "590674160.317845"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.PhotosCollectionViewController.collectionView.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "590668763.137476"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.PhotosCollectionViewController.collectionView.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "590668763.20233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.PhotosCollectionViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "590668763.207376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.PhotosCollectionViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "590668763.212893"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.PhotosCollectionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Virtual_Tourist_Norah.PhotosCollectionViewController"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "590668763.219642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.PhotosCollectionViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Virtual_Tourist_Norah.PhotosCollectionViewController&gt;"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/Photos/PhotosCollectionViewController.swift"
+                  timestampString = "590668763.226602"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Virtual Tourist|Norah/AppDelegate.swift"
+            timestampString = "590687414.2477601"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.AppDelegate.dataController.getter : Virtual_Tourist_Norah.DataController"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/AppDelegate.swift"
+                  timestampString = "590685896.505016"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Virtual_Tourist_Norah.AppDelegate.init() -&gt; Virtual_Tourist_Norah.AppDelegate"
+                  moduleName = "Virtual Tourist|Norah"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Anori./Desktop/Virtual%20Tourist%7CNorah/Virtual%20Tourist%7CNorah/AppDelegate.swift"
+                  timestampString = "590685896.530309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Virtual Tourist|Norah/MapAndRequest/MapViewController.swift"
+            timestampString = "590765030.976367"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
